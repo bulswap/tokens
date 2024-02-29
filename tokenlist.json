@@ -1,0 +1,110 @@
+{
+    "name": "BullSwap List",
+    "timestamp": "2023-10-29T17:00:00.000Z",
+    "logoURI": "",
+    "version": {
+        "major": 2,
+        "minor": 17,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "name": "BULLS",
+            "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+            "symbol": "BULL",
+            "decimals": 18,
+            "chainId": 7700,
+            "logoURI": "https://ibb.co/rwMB2x6"
+        },
+ {
+            "name": "ETH",
+            "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+            "symbol": "ETH",
+            "decimals": 18,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "USDC",
+            "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
+        },
+        {
+            "name": "USDC",
+            "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 1101,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
+        },
+        {
+            "name": "USDT",
+            "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDT.svg"
+        },
+
+{
+            "name": "Wrapped ETH",
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 59144,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+ {
+            "name": "Wrapped BTC",
+            "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "chainId": 59144,
+            "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f/logo.png"
+        },
+ {
+            "name": "USDC from Ethereum",
+            "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 59144,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
+        },
+        {
+            "name": "USDT",
+            "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 59144,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDT.svg"
+        },
+ {
+            "name": "Wrapped ETH",
+            "address": "0x4200000000000000000000000000000000000006",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+
+{
+            "name": "Wrapped ETH",
+            "address": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 169,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+       {
+            "name": "Wrapped ETH",
+            "address": "0x5300000000000000000000000000000000000004",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 534352,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        }
+    ]
+}
