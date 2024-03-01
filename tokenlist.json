@@ -14,15 +14,15 @@
             "symbol": "BULL",
             "decimals": 18,
             "chainId": 8453,
-            "logoURI": "https://basescan.org/token/images/bullsclubbase_32.png"
+            "logoURI": "https://dexkit-storage.nyc3.digitaloceanspaces.com/dexkit/media-library/account/0x864ae6a6d4f7cf4b25140dc28e0f8f29bfe4cb48/logo3.png"
         },
         {
-            "name": "Wrapped ETH",
-            "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
-            "symbol": "WETH",
+            "name": "BEARS-BULLS",
+            "address": "0x9608F9182e896c534C74b8D93D4C8B22a5b2cf3D",
+            "symbol": "BEARS",
             "decimals": 18,
-            "chainId": 1101,
-            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+            "chainId": 8453,
+            "logoURI": "https://dexkit-storage.nyc3.digitaloceanspaces.com/dexkit/media-library/account/0x864ae6a6d4f7cf4b25140dc28e0f8f29bfe4cb48/bear.png"
         },
         {
             "name": "leetswap.finance",
