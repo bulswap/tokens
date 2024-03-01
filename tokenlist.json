@@ -13,7 +13,7 @@
             "address": "0xC1B6844D5134c8E550043f01FFbF49CA66Efc77F",
             "symbol": "BULL",
             "decimals": 18,
-            "chainId": 1101,
+            "chainId": 8453,
             "logoURI": "https://github.com/bulswap/tokens/blob/main/bull.png"
         },
         {
