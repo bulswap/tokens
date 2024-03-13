@@ -64,13 +64,53 @@
             "chainId": 8453,
             "logoURI": "https://dexkit-storage.nyc3.digitaloceanspaces.com/dexkit/media-library/account/0x864ae6a6d4f7cf4b25140dc28e0f8f29bfe4cb48/Baseswap_LogoNew.png"
         },
-  {
-            "name": "Wrapped ETH",
-            "address": "0x5300000000000000000000000000000000000004",
-            "symbol": "WETH",
+        {
+            "name": "Kyber Network Crystal v2",
+            "address": "0x28fe69Ff6864C1C218878BDCA01482D36B9D57b1",
+            "symbol": "KNC",
             "decimals": 18,
-            "chainId": 534352,
-            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+            "chainId": 8453,
+            "logoURI": "https://basescan.org/token/images/kybernetwork2_32.png"
+        },
+        {
+            "name": "Synthetix Network Token",
+            "address": "0x22e6966B799c4D5B13BE962E1D117b56327FDa66",
+            "symbol": "SNX",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://basescan.org/token/images/synthetixsnx_32.png"
+        },
+        {
+            "name": "StargateToken",
+            "address": "0xE3B53AF74a4BF62Ae5511055290838050bf764Df",
+            "symbol": "SGT",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://basescan.org/token/images/Stargate_32.svg"
+        },
+        {
+            "name": "BaseTools",
+            "address": "0xB3CE4Ce692e035720B25880f678871CfC5a863CA",
+            "symbol": "BASE",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://basescan.org/token/images/basetools_32.png"
+        },
+        {
+            "name": "BTRST",
+            "address": "0xA7d68d155d17cB30e311367c2Ef1E82aB6022b67",
+            "symbol": "BTRST",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://basescan.org/token/images/braintrust_32.png"
+        },
+        {
+            "name": "BetSwirl v2",
+            "address": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+            "symbol": "BETS",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://basescan.org/token/images/betswirl_32.png"
         }
     ]
 }
